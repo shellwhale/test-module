@@ -1,0 +1,3 @@
+[submodule "app/src/lfpdm-aconex-ajouterdocumentgroupe"]
+	path = app/src/lfpdm-aconex-ajouterdocumentgroupe
+	url = https://gitlab-repo-mob.apps.eul.sncf.fr/dsit-mat/groupeaes/05477/interface-pdm/lfpdm-aconex-ajouterdocumentgroupe.git
